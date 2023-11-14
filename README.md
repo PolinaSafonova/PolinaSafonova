@@ -14,4 +14,4 @@
 </p>
 
 ### Latest project:
-* [Аналитика данных медицинского центра](medical/medical.ipynb)
+* [Аналитика данных медицинского центра](https://github.com/PolinaSafonova/more_dataprojects/tree/main/medical)
